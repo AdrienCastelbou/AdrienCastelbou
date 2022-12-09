@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1>Hi there, I am Adrien 👋</h1>
 
+*Software Developer - Student @ [42 Paris](https://42.fr)*
 <!--
 **AdrienCastelbou/AdrienCastelbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
