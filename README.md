@@ -3,6 +3,12 @@
 <h1>Hi there, I am Adrien 👋</h1>
 
 *Software Developer - Student @ [42 Paris](https://42.fr)*
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrienCastelbou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienCastelbou&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AdrienCastelbou/AdrienCastelbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
