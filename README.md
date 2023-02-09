@@ -2,7 +2,13 @@
 
 <h1>Hi there, I am Adrien 👋</h1>
 
-*Software Developer - Student @ [42 Paris](https://42.fr)*
+<p><em>Software Developer Apprentice @ <a href="https://www.euronext.com/en">Euronext</a> | Student @ <a href="https://42.fr">42 Paris</a></em></p>
+
+- 👨‍💻 Technology Enthusiast.
+- 🌱 Currently learning Deep/Machine Learning, Web and Software developpement.
+- 👨🏻‍🎓 My constantly updated [Resume](X) (*in progress*).
+- 📫 Feel free to contact me by [Email](mailto:acastelbou1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adrien-castelbou/).
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
