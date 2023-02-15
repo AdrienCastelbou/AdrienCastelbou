@@ -8,6 +8,7 @@
 - 🌱 Currently learning Deep/Machine Learning, Web and Software developpement.
 - 👨🏻‍🎓 My constantly updated [Resume](X) (*in progress*).
 - 📫 Feel free to contact me by [Email](mailto:acastelbou1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adrien-castelbou/).
+- 🍱Feel free to connect throught my [bento](https://bento.me/adriencastelbou).
  
 
 ### :hammer_and_wrench: Languages and Tools :
